@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FoodPin/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="FoodPin/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="2N8-ZK-AsD.text">
+        <source>我来过</source>
+        <target>訪問した</target>
+        <note>Class = "UILabel"; text = "我来过"; ObjectID = "2N8-ZK-AsD";</note>
+      </trans-unit>
+      <trans-unit id="4wX-hm-uXl.placeholder">
+        <source>输入店名</source>
+        <target>レストラン名前を輸入</target>
+        <note>Class = "UITextField"; placeholder = "输入店名"; ObjectID = "4wX-hm-uXl";</note>
+      </trans-unit>
+      <trans-unit id="7xM-zH-X9Y.title">
+        <source>最爱</source>
+        <target>大好き</target>
+        <note>Class = "UITabBarItem"; title = "最爱"; ObjectID = "7xM-zH-X9Y";</note>
+      </trans-unit>
+      <trans-unit id="8Th-7b-dzG.text">
+        <source>私人定制</source>
+        <target>パーソナル</target>
+        <note>Class = "UILabel"; text = "私人定制"; ObjectID = "8Th-7b-dzG";</note>
+      </trans-unit>
+      <trans-unit id="16o-m2-Vf6.text">
+        <source>店名</source>
+        <target>名前</target>
+        <note>Class = "UILabel"; text = "店名"; ObjectID = "16o-m2-Vf6";</note>
+      </trans-unit>
+      <trans-unit id="ANV-q4-W2X.text">
+        <source>好店随时加，打造自己的美食向导</source>
+        <target>いつでもあなたが一番好きなレストランを追加可能！</target>
+        <note>Class = "UILabel"; text = "好店随时加，打造自己的美食向导"; ObjectID = "ANV-q4-W2X";</note>
+      </trans-unit>
+      <trans-unit id="B6M-t8-G0e.text">
+        <source>类别</source>
+        <target>カテコリー</target>
+        <note>Class = "UILabel"; text = "类别"; ObjectID = "B6M-t8-G0e";</note>
+      </trans-unit>
+      <trans-unit id="GfG-Zj-BUw.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "GfG-Zj-BUw";</note>
+      </trans-unit>
+      <trans-unit id="QJT-qU-DTL.title">
+        <source>新店</source>
+        <target>新規登録</target>
+        <note>Class = "UINavigationItem"; title = "新店"; ObjectID = "QJT-qU-DTL";</note>
+      </trans-unit>
+      <trans-unit id="RSi-e5-GBy.text">
+        <source>地点</source>
+        <target>アドレース</target>
+        <note>Class = "UILabel"; text = "地点"; ObjectID = "RSi-e5-GBy";</note>
+      </trans-unit>
+      <trans-unit id="Sah-0j-gRK.normalTitle">
+        <source>否</source>
+        <target>いいえ</target>
+        <note>Class = "UIButton"; normalTitle = "否"; ObjectID = "Sah-0j-gRK";</note>
+      </trans-unit>
+      <trans-unit id="bQZ-Uc-GxD.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "bQZ-Uc-GxD";</note>
+      </trans-unit>
+      <trans-unit id="dvT-kC-PJO.text">
+        <source>字段</source>
+        <target>字段</target>
+        <note>Class = "UILabel"; text = "字段"; ObjectID = "dvT-kC-PJO";</note>
+      </trans-unit>
+      <trans-unit id="fwD-tw-Ffj.placeholder">
+        <source>输入类别</source>
+        <target>输入类别</target>
+        <note>Class = "UITextField"; placeholder = "输入类别"; ObjectID = "fwD-tw-Ffj";</note>
+      </trans-unit>
+      <trans-unit id="gaY-f3-ac3.text">
+        <source>类型</source>
+        <target>类型</target>
+        <note>Class = "UILabel"; text = "类型"; ObjectID = "gaY-f3-ac3";</note>
+      </trans-unit>
+      <trans-unit id="gdp-nk-Ydb.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "gdp-nk-Ydb";</note>
+      </trans-unit>
+      <trans-unit id="hTP-Xw-Gch.title">
+        <source>Item</source>
+        <target>Item</target>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "hTP-Xw-Gch";</note>
+      </trans-unit>
+      <trans-unit id="hZf-XS-UXB.text">
+        <source>值</source>
+        <target>値</target>
+        <note>Class = "UILabel"; text = "值"; ObjectID = "hZf-XS-UXB";</note>
+      </trans-unit>
+      <trans-unit id="iEg-RX-Azf.title">
+        <source>吃货点评</source>
+        <target>マイフードピン</target>
+        <note>Class = "UINavigationItem"; title = "吃货点评"; ObjectID = "iEg-RX-Azf";</note>
+      </trans-unit>
+      <trans-unit id="keo-r5-q3U.text">
+        <source>餐馆名</source>
+        <target>レストラン名前</target>
+        <note>Class = "UILabel"; text = "餐馆名"; ObjectID = "keo-r5-q3U";</note>
+      </trans-unit>
+      <trans-unit id="sSc-VR-Uzk.placeholder">
+        <source>输入地址</source>
+        <target>アドレースを輸入</target>
+        <note>Class = "UITextField"; placeholder = "输入地址"; ObjectID = "sSc-VR-Uzk";</note>
+      </trans-unit>
+      <trans-unit id="vNz-Fj-rhW.normalTitle">
+        <source>是</source>
+        <target>はい</target>
+        <note>Class = "UIButton"; normalTitle = "是"; ObjectID = "vNz-Fj-rhW";</note>
+      </trans-unit>
+      <trans-unit id="wD8-9Z-1pI.text">
+        <source>地址</source>
+        <target>アドレース</target>
+        <note>Class = "UILabel"; text = "地址"; ObjectID = "wD8-9Z-1pI";</note>
+      </trans-unit>
+      <trans-unit id="xtO-OY-CId.text">
+        <source>我来过，我评价</source>
+        <target>コマンドプロンプト</target>
+        <note>Class = "UILabel"; text = "我来过，我评价"; ObjectID = "xtO-OY-CId";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Base.lproj/about.storyboard" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="B3f-fc-lYN.title">
+        <source>关于</source>
+        <target>連絡</target>
+        <note>Class = "UINavigationItem"; title = "关于"; ObjectID = "B3f-fc-lYN";</note>
+      </trans-unit>
+      <trans-unit id="c0m-gQ-LmY.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "c0m-gQ-LmY";</note>
+      </trans-unit>
+      <trans-unit id="iig-hg-zJA.title">
+        <source>关于</source>
+        <target>連絡</target>
+        <note>Class = "UITabBarItem"; title = "关于"; ObjectID = "iig-hg-zJA";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Info.plist" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      <target></target></trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      <target></target></trans-unit>
+    </body>
+  </file>
+  <file original="FoodPin/Localizable.strings" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="分享">
+        <source>分享</source>
+        <note>分享按钮标题</note>
+      <target>おすすめ</target></trans-unit>
+      <trans-unit id="分享到">
+        <source>分享到</source>
+        <note>分享菜单标题</note>
+      <target>おすすめ先</target></trans-unit>
+      <trans-unit id="微信">
+        <source>微信</source>
+        <note>腾讯微信</note>
+      <target>WeChat</target></trans-unit>
+      <trans-unit id="微博">
+        <source>微博</source>
+        <note>新浪微博</note>
+      <target>Weibo</target></trans-unit>
+      <trans-unit id="请选择您要分享的社交类型">
+        <source>请选择您要分享的社交类型</source>
+        <note>分享菜单副标题</note>
+      <target>おすすめオプション</target></trans-unit>
+      <trans-unit id="输入餐馆名搜索...">
+        <source>输入餐馆名搜索...</source>
+        <note>搜索占位符</note>
+      <target>レストラン名前を輸入して検索する…</target></trans-unit>
+    </body>
+  </file>
+</xliff>
